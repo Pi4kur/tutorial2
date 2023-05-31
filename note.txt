@@ -1,0 +1,19 @@
+# Activate virtual environments for project
+
+python -m venv myworld
+
+# myworld - name of project
+#
+# Then you have to activate the environment, by typing this command:
+#
+
+source myworld/bin/activate
+
+#
+# Note: You must activate the virtual environment every time you open the command prompt to work on your project.
+
+py manage.py runserver
+
+DB-NAME: postgre-database
+User: postgres
+PW: Password123*

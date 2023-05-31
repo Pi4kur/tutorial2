@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    font-family: verdana;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(176, 55, 65);
+    background-color: lightgreen;
+}
